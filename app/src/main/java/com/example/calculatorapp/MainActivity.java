@@ -9,6 +9,7 @@ import android.widget.EditText;
 
 public class MainActivity extends AppCompatActivity {
 
+    //comment
     public void addFunction(View view) {
         EditText firstNumber = (EditText) findViewById(R.id.firstNumber);
         EditText secondNumber = (EditText) findViewById(R.id.secondNumber);
